@@ -1,0 +1,47 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyCharm project files
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Pygame cache (sometimes generated when images/sounds are loaded)
+*.mp3
+*.wav
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Unit test cache
+.pytest_cache/
+.coverage
+
+# VSCode project settings (optional)
+.vscode/
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Ignore generated __init__.py if used in directories
+**/__init__.pyc
